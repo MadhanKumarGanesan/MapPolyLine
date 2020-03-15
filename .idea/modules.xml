@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MapPolyLoine.iml" filepath="$PROJECT_DIR$/MapPolyLoine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapRouteBetweenMarkers.iml" filepath="$PROJECT_DIR$/MapRouteBetweenMarkers.iml" group="MapRouteBetweenMarkers" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MapRouteBetweenMarkers/app" />
     </modules>
   </component>
 </project>
